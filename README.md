@@ -1,5 +1,4 @@
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
-this ischanged by me
 
 # Microsoft.Github CI Demo
 
